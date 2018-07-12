@@ -1,11 +1,19 @@
 img{
-	width: 50%;
-	height: 50%;
+	width: 32%;
+	height: 32%;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	
 }
 h1{
 	text-align: center;
+}
+.myCarousel{
+	max-height: 32%;
+	
+}
+.contacto{
+	height: 30%;	
 	
 }
